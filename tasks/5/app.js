@@ -1,6 +1,3 @@
-
-
-
 const MyObject = {
   a: 1,
   b: {
